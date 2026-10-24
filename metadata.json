@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Clustering & Segmentación Estratégica",
+  "description": "Aplicación profesional de ciencia de datos para análisis de calidad, clustering multialgorítmico, perfilamiento sectorial y generación de estrategias comerciales ejecutivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
